@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3630A2E5-8B96-4F93-899A-B5019047E6E1}|ZaTikFace\\ZaTikFace.csproj|d:\\wbf\\chatappwpf-master\\chatappwpf-master\\zatikface\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3630A2E5-8B96-4F93-899A-B5019047E6E1}|ZaTikFace\\ZaTikFace.csproj|solutionrelative:zatikface\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3630A2E5-8B96-4F93-899A-B5019047E6E1}|ZaTikFace\\ZaTikFace.csproj|d:\\wbf\\chatappwpf-master\\chatappwpf-master\\zatikface\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3630A2E5-8B96-4F93-899A-B5019047E6E1}|ZaTikFace\\ZaTikFace.csproj|solutionrelative:zatikface\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3630A2E5-8B96-4F93-899A-B5019047E6E1}|ZaTikFace\\ZaTikFace.csproj|d:\\wbf\\chatappwpf-master\\chatappwpf-master\\zatikface\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3630A2E5-8B96-4F93-899A-B5019047E6E1}|ZaTikFace\\ZaTikFace.csproj|solutionrelative:zatikface\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChu.xaml",
+              "DocumentMoniker": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\ZaTikFace\\TrangChu.xaml",
+              "RelativeDocumentMoniker": "ZaTikFace\\TrangChu.xaml",
+              "ToolTip": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\ZaTikFace\\TrangChu.xaml",
+              "RelativeToolTip": "ZaTikFace\\TrangChu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T07:21:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.xaml.cs",
+              "DocumentMoniker": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\ZaTikFace\\LoginForm.xaml.cs",
+              "RelativeDocumentMoniker": "ZaTikFace\\LoginForm.xaml.cs",
+              "ToolTip": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\ZaTikFace\\LoginForm.xaml.cs",
+              "RelativeToolTip": "ZaTikFace\\LoginForm.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAywDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:21:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.xaml",
+              "DocumentMoniker": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\ZaTikFace\\LoginForm.xaml",
+              "RelativeDocumentMoniker": "ZaTikFace\\LoginForm.xaml",
+              "ToolTip": "D:\\WBF\\ChatAppWpf-master\\ChatAppWpf-master\\ZaTikFace\\LoginForm.xaml",
+              "RelativeToolTip": "ZaTikFace\\LoginForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T07:21:32.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
